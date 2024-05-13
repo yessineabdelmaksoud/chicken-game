@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\Desktop\\game djej\\projetTutoSFML\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF934CC4-7494-4F67-BBA6-F612273C0050}|projetTutoSFML.vcxproj|C:\\Users\\pc\\Desktop\\game djej\\projetTutoSFML\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AF934CC4-7494-4F67-BBA6-F612273C0050}|projetTutoSFML.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF934CC4-7494-4F67-BBA6-F612273C0050}|projetTutoSFML.vcxproj|C:\\Users\\pc\\Desktop\\game djej\\projetTutoSFML\\Animation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AF934CC4-7494-4F67-BBA6-F612273C0050}|projetTutoSFML.vcxproj|solutionrelative:Animation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF934CC4-7494-4F67-BBA6-F612273C0050}|projetTutoSFML.vcxproj|C:\\Users\\pc\\Desktop\\game djej\\projetTutoSFML\\Animation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AF934CC4-7494-4F67-BBA6-F612273C0050}|projetTutoSFML.vcxproj|solutionrelative:Animation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF934CC4-7494-4F67-BBA6-F612273C0050}|projetTutoSFML.vcxproj|C:\\Users\\pc\\Desktop\\game djej\\projetTutoSFML\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AF934CC4-7494-4F67-BBA6-F612273C0050}|projetTutoSFML.vcxproj|solutionrelative:Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF934CC4-7494-4F67-BBA6-F612273C0050}|projetTutoSFML.vcxproj|C:\\Users\\pc\\Desktop\\game djej\\projetTutoSFML\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AF934CC4-7494-4F67-BBA6-F612273C0050}|projetTutoSFML.vcxproj|solutionrelative:Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Animation.cpp",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\game djej\\projetTutoSFML\\Animation.cpp",
+              "RelativeDocumentMoniker": "Animation.cpp",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\game djej\\projetTutoSFML\\Animation.cpp",
+              "RelativeToolTip": "Animation.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-23T20:06:07.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Animation.h",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\game djej\\projetTutoSFML\\Animation.h",
+              "RelativeDocumentMoniker": "Animation.h",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\game djej\\projetTutoSFML\\Animation.h",
+              "RelativeToolTip": "Animation.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-23T20:05:51.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\game djej\\projetTutoSFML\\Player.cpp",
+              "RelativeDocumentMoniker": "Player.cpp",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\game djej\\projetTutoSFML\\Player.cpp",
+              "RelativeToolTip": "Player.cpp",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-23T20:06:06.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Player.h",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\game djej\\projetTutoSFML\\Player.h",
+              "RelativeDocumentMoniker": "Player.h",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\game djej\\projetTutoSFML\\Player.h",
+              "RelativeToolTip": "Player.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-23T20:06:04.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\game djej\\projetTutoSFML\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\game djej\\projetTutoSFML\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAO0AAAAAAAAAAAAAABAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-20T22:20:50.178Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
